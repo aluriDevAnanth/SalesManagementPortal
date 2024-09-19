@@ -5,7 +5,7 @@ This project is a **Sales Management Portal** that enables users to manage clien
 ## Folder Structure
 
 ```plaintext
-C:\
+C:\USERS\AQWSA\DESKTOP\SALES MANAGEMENT PORTAL
 ├── Comments.aspx                # Page for managing comments
 ├── Comments.aspx.cs             # Backend logic for Comments.aspx
 ├── CreateClient.aspx            # Page for creating a new client
